@@ -51,8 +51,3 @@ void rush00(int x, int y)
         }
     }
 }
-int main()
-{
-    rush00(8,4 );
-    return 0;
-}
